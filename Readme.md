@@ -9,4 +9,4 @@ Documentation for the GitHub API can be found at http://developer.github.com.
 EXERCISE 2
 ==========
 Implement the following design in HTML and CSS
-![](horse.png "Horse")
+![](horse-template.png "Horse")
